@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/action_settings">
+        <ListPreference
+            android:key="@string/pref_list_view"
+            android:entries="@array/pref_list_view_options"
+            android:entryValues="@array/pref_list_view_values"
+            android:defaultValue="@string/pref_list_view_most_rated"
+            android:title="@string/pref_list_view_label"/>
+    </PreferenceCategory>
+</PreferenceScreen>

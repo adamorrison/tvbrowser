@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_list_view_options">
+        <item name="metric">Top Rated</item>
+        <item name="imperial">Most Popular</item>
+    </string-array>
+    <string-array name="pref_list_view_values">
+        <item name="metric">top_rated</item>
+        <item name="imperial">popular</item>
+    </string-array>
+</resources>

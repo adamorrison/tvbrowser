@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TV Browser</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="sync_account_type">tvappdatabase.example.com</string>
+    <string name="content_authority">com.test.surfer.tvappdatabase</string>
+
+    <string name="title_activity_detail">Details</string>
+
+    <!-- Key name for list view preference in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_list_view" translatable="false">viewType</string>
+
+    <!-- Value in SharedPreferences for metric temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_list_view_most_rated" translatable="false">top_rated</string>
+
+    <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_list_view_label" translatable="false">TV Series Category</string>
+
+    <!-- Value for share action id -->
+    <string name="share_action_title" translatable="false">ShareMessaging</string>
+
+</resources>
